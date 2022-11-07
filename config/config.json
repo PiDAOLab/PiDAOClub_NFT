@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0AFba5D5EBe6beff2A9d9378c35B82e86931e79c",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0AFba5D5EBe6beff2A9d9378c35B82e86931e79c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pi DAO Club",
+  "SYMBOL": "Pi NFT",
+  "MAX_SUPPLY": 8889,
+  "WEI_COST": 7000000000000000000,
+  "DISPLAY_COST": 7,
+  "GAS_LIMIT": 314000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/zh-CN/collection/pidaoclub",
+  "SHOW_BACKGROUND": true
+}
